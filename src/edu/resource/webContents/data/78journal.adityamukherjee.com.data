@@ -1,0 +1,67 @@
+Apollo: Java re-invented — Geekaholic
+@import url( http://journal.adityamukherjee.com/wp-content/themes/white/style.css ); 
+body {background-image:none !important;}
+ 
+•
+  Apollo: Java Re-Invented  
+•
+?
+I had a few other posts waiting to be posted, but this news just deserves priority! When I first heard of Apollo, I wasn’t so excited as a lot of people have been. I was more of the thought that since Adobe just likes to do things their way, no matter what, Apollo will be nothing but a fancier version of Java. I’m glad to say, that reading everything post 
+release
+, I was right … for the most part.
+The similarities end at the ‘cross–OS runtime’, because Apollo aims to become what Java couldn’t. Apollo is going to take what we already know, leverage it to the OS, and hand the controls back into our hands. What this simply means is that, everything you could do with the Internet, is now available for you to do with your own computer. I had written about 
+seamless integration
+ of offline and online applications. Keeping that in mind, this seems like 
+just
+ the thing I was looking for! :)
+Why the Java analogy?
+For those who don’t know, Sun Microsystems developed Java as a higher level language, which aimed to be completely object–oriented (it does this freakin’ well!), cross–platform and relatively easier to work with compared with lower level C++/C and the likes. But there was a problem. Working with Java meant learning a whole new language. Those familiar, will know that Java’s (only?) failing is its monstrous syntax lines
+system.out.write
+ just to write ‘Hi’ on the screen? Don’t get me started on higher functions!
+. I’m no expert though, and while it is the 
+most popular
+ programming language today, I think it can be seriously improved upon.
+This is where Apollo will succeed, since it works by using existing web languages and technologies
+HTML, Javascript, CSS, Flex, AJAX and ActionScript (non–web). PHP isn’t supported, and no plans have been revealed yet to do so. I guess one will have to use 
+AS
+ to bridge that gap should the need arise. I don’t know about Flex, so I guess that could be useful too!
+, and let’s you write applications using them. Web languages have been under heavy use since the Web 2.0 boom, and there are ‘many’ people who know it and use it in everyday life, with more and more beginning to join in the fray. If nothing more, a simple HTML interface to a Javascript backend, with Apollo’s stream controls should be able to help in developing simple and task specific applications. I can sense a 
+Textmate
+ for windows :)
+Restricted freedom
+This will, however, not be for newbies, surely. You’ll need to be adept at using existing technologies to be able to get your hands dirty with Apollo. You’ll have to be familiar with the basics of a how compilers and memory based languages work. But I think Adobe would have life much easier for everyone. So much so, that the first application that comes to mind is a ‘desktop dashboard’ of your Blogger. It could be synchronised whenever you’d go online, but for the times you were offline, changes could be saved locally, and then using the Blogger ATOM API, upload all the changes to your account. This might be one of the most uncreative uses of this however … :P So you can imagine the possibilities.
+So, while Apollo looks and feels amazing, a true analysis can only come when people start to use it and get a feel for it themselves. But mark my words. This is going to be big. So big that next generation applications will be made off Apollo type frameworks. And yes, Apollo is surely going to generate some spinoffs and libraries. But ultimately, if application development becomes easier, why not? :)
+Further Reading
+Introducing Apollo
+Apollo Developer FAQ
+Apollo just launched, so go build something
+?
+ • 
+Development and design
+ • 
+20 March, '07
+Next — 
+Not Another Library!
+Previous — 
+Search Your Blog From Firefox
+Feed
+Projects
+ / 
+GitHub
+Shorts
+ / 
+Twitter
+ / 
+Delicious
+ / 
+Flickr
+Copyright © since like 2006
+Aditya Mukherjee
+Mail
+
+ 
+
+
+ 
+<
+s
